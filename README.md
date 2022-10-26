@@ -15,7 +15,6 @@
     - [Work with GitHub](https://github.com/ShengGaoSG/Blockchain-based-Ledger-System#work-with-github)
     - [How to install](https://github.com/ShengGaoSG/Blockchain-based-Ledger-System#how-to-install)
     - [Run Streamlit](https://github.com/ShengGaoSG/Blockchain-based-Ledger-System#run-streamlit)
-- [Helps recruiters](https://github.com/ShengGaoSG/Blockchain-based-Ledger-System#helps-recruiters)
 - [License](https://github.com/ShengGaoSG/Blockchain-based-Ledger-System#license)
 
 
@@ -53,10 +52,8 @@ The steps for this Challenge are divided into the following sections:
 
 ##### Interaction with a blockchain
 
+<img width="924" alt="Screen Shot 2022-10-26 at 1 39 12 AM" src="https://user-images.githubusercontent.com/107383254/197943792-92d3d654-34b1-4d61-99d3-5a33b33c61c6.png">
 
-https://user-images.githubusercontent.com/80833988/127045133-617e4da6-f4ae-415b-95ed-ec1b3f4ffc0f.mov
-
-![Uploading Screen Shot 2022-10-26 at 12.13.59 PM.png…]()
 
 
 ## Software version control
@@ -121,11 +118,6 @@ streamlit run pychain.py
 
 ```
 
-
-
-## Helps recruiters
-
-The project was created in collaboration with Berkeley Fintech Bootcamp team
 
 
 ## License
